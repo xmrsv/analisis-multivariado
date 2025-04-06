@@ -1,4 +1,4 @@
-# Ejercicios de la sesión 2
+# Ejercicios de la sesión 2 (A y B)
 
 ## Ejercicio 1.a
 
